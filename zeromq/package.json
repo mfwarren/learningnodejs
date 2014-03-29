@@ -1,0 +1,16 @@
+{
+  "name": "zeromq",
+  "version": "0.0.0",
+  "description": "request file information over zero mq",
+  "main": "zmq-filer-rep.js",
+  "dependencies": {
+    "zmq": "~2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node --harmony zmq-filer-rep.js"
+  },
+  "repository": "",
+  "author": "matt warren",
+  "license": "BSD"
+}
